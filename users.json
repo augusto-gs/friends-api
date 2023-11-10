@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "Jeff",
+      "surname": "Winger",
+      "age": 35,
+      "sex": "Male",
+      "occupation": "Lawyer",
+      "isFriend": true,
+      "imageUrl": "https://i.ibb.co/JHQfYfn/jeff-winger.webp"
+    },
+    {
+      "name": "Britta",
+      "surname": "Perry",
+      "age": 29,
+      "sex": "Female",
+      "occupation": "Barkeep",
+      "isFriend": false,
+      "imageUrl": "https://i.ibb.co/WWLKxbr/britta-perry.webp"
+    },
+    {
+      "name": "Abed",
+      "surname": "Nadir",
+      "age": 27,
+      "sex": "Male",
+      "occupation": "Film-Maker",
+      "isFriend": true,
+      "imageUrl": "https://i.ibb.co/Nt49wtP/abed.webp"
+    },
+    {
+      "name": "Annie",
+      "surname": "Edison",
+      "age": 19,
+      "sex": "Female",
+      "occupation": "Forensic Scientist",
+      "isFriend": false,
+      "imageUrl": "https://i.ibb.co/7jC4cyV/annie-edison.webp"
+    },
+    {
+      "name": "Troy",
+      "surname": "Barnes",
+      "age": 20,
+      "sex": "Male",
+      "occupation": "Undetermined",
+      "isFriend": true,
+      "imageUrl": "https://i.ibb.co/FsN6s64/troy-barnes.webp"
+    },
+    {
+      "name": "Shirley",
+      "surname": "Bennett",
+      "age": 38,
+      "sex": "Female",
+      "occupation": "Business Manager",
+      "isFriend": false,
+      "imageUrl": "https://i.ibb.co/YPMDKVz/shirle-bennet.webp"
+    },
+    {
+      "name": "Pierce",
+      "surname": "Hawthorne",
+      "age": 65,
+      "sex": "Male",
+      "occupation": "Philantropist",
+      "isFriend": false,
+      "imageUrl": "https://i.ibb.co/998t00j/pierce-hawthorne.webp"
+    },
+    {
+      "name": "Craig",
+      "surname": "Pelton",
+      "age": 35,
+      "sex": "Male",
+      "occupation": "Dean",
+      "isFriend": true,
+      "imageUrl": "https://i.ibb.co/B2dx1DM/craig-pelton.webp"
+    }
+  ]
+}
