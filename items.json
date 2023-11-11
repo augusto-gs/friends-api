@@ -1,6 +1,7 @@
 {
   "items": [
     {
+      "id": 0,
       "name": "Jeff",
       "surname": "Winger",
       "age": 35,
@@ -10,6 +11,7 @@
       "imageUrl": "https://i.ibb.co/JHQfYfn/jeff-winger.webp"
     },
     {
+      "id": 1,
       "name": "Britta",
       "surname": "Perry",
       "age": 29,
@@ -19,6 +21,7 @@
       "imageUrl": "https://i.ibb.co/WWLKxbr/britta-perry.webp"
     },
     {
+      "id": 2,
       "name": "Abed",
       "surname": "Nadir",
       "age": 27,
@@ -28,6 +31,7 @@
       "imageUrl": "https://i.ibb.co/Nt49wtP/abed.webp"
     },
     {
+      "id": 3,
       "name": "Annie",
       "surname": "Edison",
       "age": 19,
@@ -37,6 +41,7 @@
       "imageUrl": "https://i.ibb.co/7jC4cyV/annie-edison.webp"
     },
     {
+      "id": 4,
       "name": "Troy",
       "surname": "Barnes",
       "age": 20,
@@ -46,6 +51,7 @@
       "imageUrl": "https://i.ibb.co/FsN6s64/troy-barnes.webp"
     },
     {
+      "id": 5,
       "name": "Shirley",
       "surname": "Bennett",
       "age": 38,
@@ -55,6 +61,7 @@
       "imageUrl": "https://i.ibb.co/YPMDKVz/shirle-bennet.webp"
     },
     {
+      "id": 6,
       "name": "Pierce",
       "surname": "Hawthorne",
       "age": 65,
@@ -64,6 +71,7 @@
       "imageUrl": "https://i.ibb.co/998t00j/pierce-hawthorne.webp"
     },
     {
+      "id": 7,
       "name": "Craig",
       "surname": "Pelton",
       "age": 35,
